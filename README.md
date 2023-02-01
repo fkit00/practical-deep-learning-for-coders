@@ -5,3 +5,5 @@ I've been having a very fun time trying to train a model to recognise the differ
 
 However, i do have a model that can tell the difference between a cartoon image of mars and a pepperoni pizza so you win some you lose some. 
 I've been following the amazing practical deep learning for coders course which can be found here https://course.fast.ai/
+
+Errors to fix - have a think about the sizing - this could be a big thing affecting the error rate and more in depth cleaning of the data. Maybe scalling back comparisons will help. overall error rate is too high but improving
